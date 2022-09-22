@@ -45,7 +45,7 @@ footer {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("/img/A1WuED4KiRL.jpg");
+    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("./img/A1WuED4KiRL.jpg");
     opacity: 1;
     display: block;
     width: 100%;
@@ -59,7 +59,7 @@ footer {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("/img/dog.jpg");
+    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("./img/dog.jpg");
     opacity: 1;
     display: block;
     width: 100%;
@@ -72,7 +72,7 @@ footer {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("/img/Bear2.jpg");
+    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("./img/Bear2.jpg");
     opacity: 1;
     display: block;
     width: 100%;
@@ -85,7 +85,7 @@ footer {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("/img/thumb-1920-5316.jpg");
+    background-image: linear-gradient(rgba(121, 117, 117, 0.5), rgba(54, 42, 42, 0.5)), url("./img/thumb-1920-5316.jpg");
     opacity: 1;
     display: block;
     width: 100%;
